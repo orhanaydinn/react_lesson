@@ -26,7 +26,7 @@
         </ol>
     </body>
 
-        <body> <!--formating.html-->
+    <body> <!--formating.html-->
         Orhan <b>Aydin</b> <!-- <b> bold font -->
         <br>
         Orhan <strong>Aydin</strong>  <!-- <strong> bold font -->
@@ -49,4 +49,36 @@
         <br><br><br>
 
     </body>
+
+    <form action="formatting.html"> <!--forms.html-->
+    <label>First Name : </label>
+    <input name="First Name" type="text" required/> <!--Users can inputs any data-->
+    <br>
+    <label>Password : </label>
+    <input name="First Name" type="password" required/> <!--Users can inputs any data-->
+    <br>
+    <label>Gender</label>
+    <select name="gender">
+        <option>Male</option>
+        <option>Female</option>
+    </select>
+    <br>
+    <label>Favourite Cars</label>
+    <select name="Cars" size="5" multiple>
+        <option>Volvo</option>
+        <option>BMW</option>
+        <option>Mercedes</option>
+        <option>Audi</option>
+        <option>Ford</option>
+    </select>
+    <br>
+    <label>Biography</label>
+    <textarea name="Biography" rows="4" cols="30"></textarea>
+    <br>
+    <input type="submit" value="Save1"/>
+    <br>
+    <button>Save2</button>
+    <button onClick="alert('Saved')">Save1</button>
+
+    </form>
 </html>
