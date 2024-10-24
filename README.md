@@ -102,6 +102,22 @@
     </form>
 
 ------------------------------------------------------------------------------------------------------------------------------------
-
+    
+    <body> <!--table.html-->
+        <table> <!--Create table-->
+            <th>Kişi</th> <!--Create Headline-->
+            <th>Email</th>
+            <tr>
+                <td>Orhan Aydin</td>
+                <td>orhanaydinmechatronic@gmail.com</td>
+            </tr>
+            <tr>
+                <td>Sultan Keles</td>
+                <td>sultankeles.engineer@gmail.com</td>
+            </tr>
+        </table>
+    
+    
+    </body>
 
 </html>
