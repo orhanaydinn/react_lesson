@@ -26,6 +26,23 @@
         </ol>
     </body>
 
+------------------------------------------------------------------------------------------------------------------------------------
+    <body> <!--links.html-->
+       <a href="index.html">Main Page</a>  <!--added links-->
+       <br>
+       <a href="https://www.linkedin.com/in/orhan-aydin/">Orhan Aydin Linkedin</a>
+       <br>
+       <a href="index.html" target="_blank">Main Page</a>  <!--target="_blank" the link open new page-->
+       <br>
+       <a href="index.html" target="_blank">
+        <img width="75" height="75" alt="No Image" src="https://www.factsmostly.com/wp-content/uploads/2024/08/Summer-Season.webp"></img> <!--added image. If you can not image when you open the page alt comment helps to shows information.-->
+       </a>
+    
+    
+    </body>
+    
+------------------------------------------------------------------------------------------------------------------------------------
+
     <body> <!--formating.html-->
         Orhan <b>Aydin</b> <!-- <b> bold font -->
         <br>
@@ -49,6 +66,8 @@
         <br><br><br>
 
     </body>
+
+------------------------------------------------------------------------------------------------------------------------------------
 
     <form action="formatting.html"> <!--forms.html-->
     <label>First Name : </label>
@@ -81,4 +100,8 @@
     <button onClick="alert('Saved')">Save1</button>
 
     </form>
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
 </html>
