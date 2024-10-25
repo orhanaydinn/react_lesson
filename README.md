@@ -112,8 +112,8 @@
                 <td>orhanaydinmechatronic@gmail.com</td>
             </tr>
             <tr>
-                <td>Sultan Keles</td>
-                <td>sultankeles.engineer@gmail.com</td>
+                <td>name surname</td>
+                <td>name.surname@gmail.com</td>
             </tr>
         </table>
     
