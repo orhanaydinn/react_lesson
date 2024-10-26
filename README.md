@@ -121,3 +121,14 @@
     </body>
 
 </html>
+
+------------------------------------------------------------------------------------------------------------------------------------
+#CSS#
+h1{
+    color:green; /*all h1 tags turn the green color*/
+    background-color: blue;
+}
+
+body{
+   background-color:black; /*you can change background color*/
+}
