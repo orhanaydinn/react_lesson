@@ -122,17 +122,44 @@
 
 </html>
 
-
 ------------------------------------------------------------------------------------------------------------------------------------
 #CSS#
-h1{
-    color:green; /*all h1 tags turn the green color*/
-    background-color: blue;
-}
+<head>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <style>
+        h1{
+            color: green;
+        }
 
-body{
-   background-color:black; /*you can change background color*/
-}
+        body {
+            background-color: white;
+        }
 
+        div{
+            border: 1px solid red; 
+            /*border: 1px dotted; */
+            /*border: 1px dashed; */
+            margin-top: 100px; /*You can change location your text, border e.t with Margin-top, left, right, bottom */
+            margin-left: 100px;
+            margin-right: 300px;
+            padding: 25px; /*padding affect inside the border*/
+            background-color: grey;
+                table{
+            border-collapse: collapse; /*It merges table cell borders into a single border, eliminating the double border effect.*/
+            width: 100%;
 
-------------------------------------------------------------------------------------------------------------------------------------
+        }
+        table, th, td{
+            border: 1px solid black;
+        }
+        th{
+            height: 30px;
+        }
+        td{
+            height: 30px;
+            text-align: center;
+        }
+        }
+    </style>
+</head>
