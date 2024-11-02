@@ -143,7 +143,7 @@
             margin-top: 100px; /*You can change location your text, border e.t with Margin-top, left, right, bottom */
             margin-left: 100px;
             margin-right: 300px;
-            padding: 25px; /**padding affect inside the border*/
+            padding: 25px; /*padding affect inside the border*/
             background-color: grey;
         
         }
