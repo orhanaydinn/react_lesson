@@ -145,7 +145,21 @@
             margin-right: 300px;
             padding: 25px; /*padding affect inside the border*/
             background-color: grey;
-        
+                table{
+            border-collapse: collapse; /*It merges table cell borders into a single border, eliminating the double border effect.*/
+            width: 100%;
+
+        }
+        table, th, td{
+            border: 1px solid black;
+        }
+        th{
+            height: 30px;
+        }
+        td{
+            height: 30px;
+            text-align: center;
+        }
         }
     </style>
 </head>
