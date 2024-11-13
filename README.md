@@ -35,7 +35,8 @@
        <a href="index.html" target="_blank">Main Page</a>  <!--target="_blank" the link open new page-->
        <br>
        <a href="index.html" target="_blank">
-        <img width="75" height="75" alt="No Image" src="https://www.factsmostly.com/wp-content/uploads/2024/08/Summer-Season.webp"></img> <!--added image. If you can not image when you open the page alt comment helps to shows information.-->
+        <img width="75" height="75" alt="No Image" src="https://www.factsmostly.com/wp-content/uploads/2024/08/Summer-Season.webp"></img>
+        <!--added image. If you can not image when you open the page alt comment helps to shows information.-->
        </a>
     
     
